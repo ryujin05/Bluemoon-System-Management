@@ -108,9 +108,7 @@ docker-compose up --build
 
 ## 🎥 Live Demo
 
-[![Watch Demo on YouTube](https://img.youtube.com/vi/XI0o7qD19lY/maxresdefault.jpg)](https://www.youtube.com/watch?v=XI0o7qD19lY)
-
-**Watch the full demo:** [YouTube Link](https://www.youtube.com/watch?v=XI0o7qD19lY)
+**Watch the full demo:** [Google Drive Link](https://drive.google.com/file/d/119FUXDSIRNWbuGZ6H-aLnEaBOx5E3p1Y/view?usp=sharing)
 
 ---
 
